@@ -1,0 +1,29 @@
+{
+    "name": "startbootstrap/startbootstrap-sb-admin",
+    "description": "SB Admin is an open source, admin dashboard template for Bootstrap created by Start Bootstrap.",
+    "keywords": [
+        "css",
+        "js",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+    ],
+    "homepage": "https://startbootstrap.com/template/sb-admin/",
+    "authors": [
+        {
+            "name": "David Miller",
+            "email": "hello@davidmiller.io"
+        },
+        {
+            "name": "Sam Artioli",
+            "email": "initplatform@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/StartBootstrap/startbootstrap-sb-admin/issues"
+    },
+    "license": "MIT"
+}
